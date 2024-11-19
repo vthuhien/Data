@@ -2,7 +2,7 @@
 ### 1. Home Credit
 * In this project, we use the [dataset](https://www.kaggle.com/competitions/home-credit-default-risk/data) in Kaggle about home credit group and we conduct analysis to predict the clients' repayment abilities. 
 * Here's [raw data](https://drive.google.com/drive/folders/1BMby6ZnQbWOBw-LVZIwXhdHSXgHiLzVw?usp=drive_link) that is downloaded
-* After cleaning and processing this data, we have an overview [file](https://github.com/vthuhien/Crawl_data/blob/master/Crawl_data/README.md) to show insights about them.
+* After cleaning and processing this data, we have an overview [file](https://github.com/vthuhien/Data/blob/b3cd3873aad334469ea01a3e7959986a0090f3a1/Home_credit/README.md) to show insights about them.
 
 ### 2. House Price
 * In this project, we will predict the price of each home by many surrounding conditions depent on it
